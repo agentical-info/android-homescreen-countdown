@@ -109,7 +109,7 @@ The App uses the following third-party service only for bug reporting:
 
 If you have questions about this Privacy Policy or wish to exercise your privacy rights:
 
-**Email:** [Your Email Address Here]
+**Email:** info@agentical.info
 **GitHub:** https://github.com/agentical-info/android-homescreen-countdown/issues
 **Publisher:** AgenticInfo
 
@@ -147,3 +147,4 @@ This app does not collect any personal information during normal use. Your count
 By submitting, you agree to post this information publicly on GitHub.
 
 [View Full Privacy Policy](https://github.com/agentical-info/android-homescreen-countdown/blob/main/PRIVACY_POLICY.md)
+
